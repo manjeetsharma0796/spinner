@@ -1,5 +1,4 @@
 const rotateSpinner = function () {
-  // const spinner = '|\/-\\'.split('');
   const spinner = ['\n<', '  ^', '\n    >', '\n\n  v' ];
 
   let counter = 0;
